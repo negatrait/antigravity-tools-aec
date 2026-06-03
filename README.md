@@ -7,7 +7,7 @@ Antigravity 2.0 shipped, and it's the first (to my knowledge) agent harness that
 2. It has all the hooks and sdk's that are needed for wiring up the connections to tools the AEC pros use.
 3. It's able to shell out to WSL for wider compatibility.
 
-The basic integration building block is the [Antigravity SDK]()
+The basic integration building block is the [Antigravity SDK](https://github.com/google-antigravity/antigravity-sdk-python)
 
 ## Goal
 
@@ -15,4 +15,4 @@ The goal is to create a set of configs and executables which you can simply clon
 
 ## References
 
-For reference, tools to integrate.
+For reference, tools to integrate, in random order:
