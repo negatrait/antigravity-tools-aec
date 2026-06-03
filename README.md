@@ -25,7 +25,7 @@ So, the basic MVP is an agent that cam actually see the same data as the designe
 
 If that's 0.1.0, 0.2.0 becomes the release that can actually reason over the data sources and documents, e.g. "live annualised CO2 prediction" or "Allways up to date visualisations" and so on.
 
-First step is thus the ability to ragify project data. Cocoindex seems like a plausible candidate for that.
+First step is thus the ability to ragify project data. [Cocoindex](https://github.com/cocoindex-io/cocoindex) seems like a plausible candidate for that.
 
 ## References
 
