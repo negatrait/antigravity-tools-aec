@@ -11,7 +11,21 @@ The basic integration building block is the [Antigravity SDK](https://github.com
 
 ## Goal
 
-The goal is to create a set of configs and executables which you can simply clone to a local drive, and call it a day.
+The goal is to create a set of configs and executables which you can simply clone to a local drive, plug in to Antigravity, and go do business as usual.
+
+In general, the whole point is, in priority order, to give Antigravity the ability to:
+1. Access your project context
+2. Reason over your project context
+3. Report based on your project context
+4. Publish and deploy your project files (the deliverables)
+5. Suggest modifications to your project
+6. Implement modifications to your project
+
+So, the basic MVP is an agent that cam actually see the same data as the designer sees. Meaning, able to read with MCP and browser tools, without any particular skills or reasoning.
+
+If that's 0.1.0, 0.2.0 becomes the release that can actually reason over the data sources and documents, e.g. "live annualised CO2 prediction" or "Allways up to date visualisations" and so on.
+
+First step is thus the ability to ragify project data. Cocoindex seems like a plausible candidate for that.
 
 ## References
 
@@ -22,4 +36,8 @@ For reference, tools to integrate or use, in random order:
 - [RevitMCPBridge](https://github.com/WeberG619/RevitMCPBridge2026), for working with Revit.
 - [speckle-server](https://github.com/specklesystems/speckle-server), for when you actually want a CDE.
 - [OfficeMCP](https://github.com/OfficeMCP/OfficeMCP), for the other documents.
+- [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg), for when someone sends that pesky weird document format.
 
+For the full tech stack, potential candidates:
+- cocoindex
+- elastic search
