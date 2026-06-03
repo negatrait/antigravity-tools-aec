@@ -20,4 +20,5 @@ For reference, tools to integrate or use, in random order:
 - [IFC OpenShell](https://github.com/IfcOpenShell/IfcOpenShell), includes an MCP server.
 - [ifc-lite](https://github.com/LTplus-AG/ifc-lite), for viewing IFC's inside a browser - give eyes to Antigravity.
 - [RevitMCPBridge](https://github.com/WeberG619/RevitMCPBridge2026), for working with Revit.
--
+- [speckle-server](https://github.com/specklesystems/speckle-server), for when you actually want a CDE.
+
