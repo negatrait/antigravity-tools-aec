@@ -21,4 +21,5 @@ For reference, tools to integrate or use, in random order:
 - [ifc-lite](https://github.com/LTplus-AG/ifc-lite), for viewing IFC's inside a browser - give eyes to Antigravity.
 - [RevitMCPBridge](https://github.com/WeberG619/RevitMCPBridge2026), for working with Revit.
 - [speckle-server](https://github.com/specklesystems/speckle-server), for when you actually want a CDE.
+- [OfficeMCP](https://github.com/OfficeMCP/OfficeMCP), for the other documents.
 
