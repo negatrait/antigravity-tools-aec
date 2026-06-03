@@ -16,4 +16,5 @@ The goal is to create a set of configs and executables which you can simply clon
 ## References
 
 For reference, tools to integrate, in random order:
-- [solibri-toolkit](https://github.com/EdvardGK/solibri-toolkit)
+- [solibri-toolkit](https://github.com/EdvardGK/solibri-toolkit), 
+- [IFC OpenShell](https://github.com/IfcOpenShell/IfcOpenShell), includes an MCP server
