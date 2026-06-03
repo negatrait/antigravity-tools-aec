@@ -15,7 +15,9 @@ The goal is to create a set of configs and executables which you can simply clon
 
 ## References
 
-For reference, tools to integrate, in random order:
+For reference, tools to integrate or use, in random order:
 - [solibri-toolkit](https://github.com/EdvardGK/solibri-toolkit), for integrating with Solibri.
 - [IFC OpenShell](https://github.com/IfcOpenShell/IfcOpenShell), includes an MCP server.
 - [ifc-lite](https://github.com/LTplus-AG/ifc-lite), for viewing IFC's inside a browser - give eyes to Antigravity.
+- [RevitMCPBridge](https://github.com/WeberG619/RevitMCPBridge2026), for working with Revit.
+-
