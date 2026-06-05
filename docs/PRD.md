@@ -5,14 +5,14 @@ The purpose of this project is to extend Google Antigravity with a suite of inte
 
 ## 2. Target Audience
 - **Primary:** Architects and BIM Managers who need quick, intelligent access to project data, models, and documentation without manually opening and searching through multiple heavy applications.
-- **Secondary:** Structural Engineers, MEP Engineers, and Project Managers.
+- **Secondary:** Company owners and Management, Clients.
 
 ## 3. Product Goals & Vision
 The ultimate vision is an autonomous agent that can access, reason over, report on, suggest modifications, and eventually implement changes across a project's entire data context.
 
 To achieve this, the product will be released in phases:
-- **MVP (v0.1.0):** Read-only access to project data via Model Context Protocol (MCP) servers, browser tools, and a local semantic graph engine (Open Ontologies). Initiated via user chat.
-- **Phase 2 (v0.2.0 & Beyond):** Autonomous reasoning workflows, continuous data syncing (Cocoindex) for live project context, and cross-discipline data alignment.
+- **Sprint 1 MVP (v0.1.0):** Read-only access to project data via Model Context Protocol (MCP) servers, browser tools, and a local semantic graph engine (Open Ontologies). Initiated via user chat.
+- **Sprint 2 (v0.2.0):** Autonomous reasoning workflows, continuous data syncing (Cocoindex) for live project context, and cross-discipline data alignment.
 
 ## 4. MVP Scope (v0.1.0)
 The MVP will focus on a "Read-Only" experience where the user initiates commands through the Antigravity chat interface. A key feature of the MVP is the introduction of a semantic graph to bridge different AEC data silos.
