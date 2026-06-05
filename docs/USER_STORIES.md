@@ -5,7 +5,6 @@
 ### Semantic Graph & Ontology Reasoning (Open Ontologies)
 1. **As a BIM Manager**, I want Antigravity to ingest my architectural IFC model into the Open Ontologies graph, so that the data is represented in a standard, queryable RDF format.
 2. **As an Architect**, I want to ask Antigravity complex relational questions like "Which load-bearing walls are directly supporting the roof structure?", so that the Open Ontologies OWL2-DL reasoner can infer the answer even if it wasn't explicitly modeled that way in Revit.
-3. **As a Structural Engineer**, I want the agent to use Open Ontologies to map the Architect's definition of a "Wall" to my structural analysis definition of a "Shear Element", so that we can verify the model using a shared semantic language.
 
 ### IFC & Model Data
 4. **As an Architect**, I want to ask Antigravity "How many doors are in the current IFC model?", so that I don't have to manually open Navisworks or Solibri to count them.
@@ -13,7 +12,7 @@
 6. **As a BIM Manager**, I want Antigravity to use `ifc-lite` in the browser to "look" at the model and describe the general layout of the ground floor, so that the agent has visual context of the project.
 
 ### Revit Integration
-7. **As an Architect**, I want to ask Antigravity "What is the total square footage of the rooms currently selected in my open Revit session?", so that I can quickly generate area reports without creating new Revit schedules.
+7. **As an Architect**, I want to ask Antigravity "What is the total sqm of the rooms currently selected in my open Revit session?", so that I can quickly generate area reports without creating new Revit schedules.
 8. **As an Architect**, I want to query Antigravity about the warnings generated in my current Revit file, so that I can get suggestions on how to resolve them.
 
 ### Document & Context Integration
