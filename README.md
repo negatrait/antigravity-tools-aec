@@ -41,3 +41,10 @@ For reference, tools to integrate or use, in random order:
 For the full tech stack, potential candidates:
 - cocoindex
 - elastic search
+
+Then, let's imagine we have the above set up. That means we have one unexplored opportunity: The LLM-Wiki pattern. What essentially emerges:
+1. The structured and unstructured data is the `raw/` of the project.
+2. The agent reasons over the ontologies to produce the `wiki/` of the project.
+ - Claims, contradictions, linting
+ - What ends up in that wiki when someone constantly maintains it?
+ - Can you reason over "all the project wikis"? The company brain?
