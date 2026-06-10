@@ -41,6 +41,7 @@ For reference, tools to integrate or use, in random order:
 For the full tech stack, potential candidates:
 - cocoindex
 - elastic search
+- https://github.com/jrastas/ifc-tarkistaja
 
 Then, let's imagine we have the above set up. That means we have one unexplored opportunity: The LLM-Wiki pattern. What essentially emerges:
 1. The structured and unstructured data is the `raw/` of the project.
